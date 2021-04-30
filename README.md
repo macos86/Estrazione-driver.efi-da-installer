@@ -21,7 +21,8 @@ Questa guida mostra gli step necessari per ottenere le ultime versioni dei drive
 1. Installate [Pacifist](https://charlessoft.com/cgi-bin/pacifist_download.cgi?type=dmg) e dirigetevi nel percorso in foto, che conterrà gli ultimi BIOS dei firmware dei Mac originali
 
     ![1. Percorso a EFIPayloads](images/1_path-inside-installer.png)
-2.  Ora occorre estrarre questa cartella, scegliete voi il percorso, in questo caso io ho scelto la cartella `~/Downloads`.
+    
+2.  Ora occorre estrarre questa cartella, cliccando su `Extract to custom location` vi verrà chiesto di scegliere il percorso, in questo caso io ho scelto la cartella `~/Downloads`.
 
     ![2. Estrazione della cartella](images/2_custom-location-extraction.png)
 
